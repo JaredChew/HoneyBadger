@@ -1,0 +1,16 @@
+[MESSAGE] 2019-02-05 23:34:50:	All files validated
+[MESSAGE] 2019-02-05 23:34:50:	Initialising SDL
+[MESSAGE] 2019-02-05 23:34:51:	SDL drivers initialised
+[MESSAGE] 2019-02-05 23:34:51:	Window initialised
+[MESSAGE] 2019-02-05 23:34:51:	Renderer initialised
+[MESSAGE] 2019-02-05 23:34:51:	Initialising sub libraries
+[MESSAGE] 2019-02-05 23:34:52:	Failed to initialise Audio library
+[MESSAGE] 2019-02-05 23:34:52:	Font library initialised
+[MESSAGE] 2019-02-05 23:34:52:	Image library initialised
+[MESSAGE] 2019-02-05 23:34:52:	Initialising essential objects
+[MESSAGE] 2019-02-05 23:34:52:	Keyboard initialised
+[MESSAGE] 2019-02-05 23:34:52:	Mouse initialised
+[MESSAGE] 2019-02-05 23:34:52:	ResourcesLoader initialised
+[MESSAGE] 2019-02-05 23:34:52:	Font Object initialised
+[MESSAGE] 2019-02-05 23:34:52:	Running game loop
+[ERROR] 2019-02-05 23:34:54:	A critical error has occured, the program will now terminate
