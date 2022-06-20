@@ -2,6 +2,7 @@
 2D game engine framework with game genre modules
 
 Dream project of creating a game engine.
+
 The core of this engine is to have lots of flexibility and ease of use.
 The main idea for modules is to have an easy plug-in method that makes creating projects of an idea easy and semi-automated.
 The biggest plan for modules is to have genre specific modules that helps create games of that genre in an easy manner.
